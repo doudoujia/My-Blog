@@ -55,7 +55,7 @@ statsmodels==0.8.0
 sympy==1.1.1
 TA-Lib==0.4.17
 tables==3.4.2
-tablib==0.12.1
+
 
 
 
