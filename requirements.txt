@@ -7,10 +7,7 @@ fastcache==1.0.2
 filelock==2.0.13
 fix-yahoo-finance==0.0.21
 
-funcsigs==1.0.2
-functools32==3.2.3.post2
-futures==3.2.0
-gevent==1.2.2
+
 
 ipython-genutils==0.2.0
 ipywidgets==7.1.1
